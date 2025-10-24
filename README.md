@@ -27,9 +27,6 @@
 ---
 
 ## 🚀 Projects
-### 🎬 Movie Ticket Booking System  
-Spring Boot backend + full frontend integration for booking movies.  
-🔗 (https://github.com/badri2356)
 
 ### 🏥 Hospital Management System  
 Manages patient registration, appointments, billing, and inventory.  
